@@ -1,6 +1,6 @@
-host="fabmedical-[SUFFIX].documents.azure.com"
-username="fabmedical-[SUFFIX]"
-password="[PASSWORD]"
+host="fabmedical-503881.mongo.cosmos.azure.com"
+username="fabmedical-503881"
+password="K6ys8uOuJrlaWcexVGuQvHJSmSadwNt94oMAIvpVfOWJ6Bs8wJgO7GXk9c5YOAN7JOws9xie27xttC76aSNUig=="
 dbname="contentdb"
 port="10255"
 
